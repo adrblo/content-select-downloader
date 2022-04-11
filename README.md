@@ -56,7 +56,7 @@ Options:
 
 The URL has to be something like `https://content-select.com/media/moz_viewer/<uuid>/language:de` and filename `book.pdf`:
 ```
-python cs_downloader.py https://content-select.com/media/moz_viewer/<uuid>/language:de book.py
+python cs_downloader.py https://content-select.com/media/moz_viewer/<uuid>/language:de book.pdf
 ```
 
 
